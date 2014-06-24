@@ -113,6 +113,8 @@ sudo docker build -rm -t bradrydzewski/jruby:1.7.11-openjdk6  builder/ruby/jruby
 sudo docker build -rm -t bradrydzewski/jruby:1.7.11-openjdk7  builder/ruby/jruby_1.7.11_openjdk7/
 sudo docker build -rm -t bradrydzewski/jruby:1.7.12-openjdk6  builder/ruby/jruby_1.7.12_openjdk6/
 sudo docker build -rm -t bradrydzewski/jruby:1.7.12-openjdk7  builder/ruby/jruby_1.7.12_openjdk7/
+sudo docker build -rm -t bradrydzewski/jruby:1.7.13-openjdk6  builder/ruby/jruby_1.7.13_openjdk6/
+sudo docker build -rm -t bradrydzewski/jruby:1.7.13-openjdk7  builder/ruby/jruby_1.7.13_openjdk7/
 ```
 
 TODO
